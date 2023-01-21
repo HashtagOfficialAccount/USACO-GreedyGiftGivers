@@ -3,7 +3,6 @@ LANG: PYTHON3
 PROG: gift1
 '''
 import re
-zde = open("gift1.in","w")
 x = open("gift1.in")
 content = x.readlines()
 index = 0
